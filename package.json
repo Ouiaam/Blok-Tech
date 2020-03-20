@@ -1,0 +1,32 @@
+{
+  "name": "datingapp",
+  "version": "1.0.0",
+  "description": "Dating App Voor Blok Tech",
+  "main": "index.js",
+  "dependencies": {
+    "boilerplate": "^0.6.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.5.4",
+    "node": "^13.8.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ouiaam/Blok-Tech.git"
+  },
+  "keywords": [],
+  "author": "Ouiaam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ouiaam/Blok-Tech/issues"
+  },
+  "homepage": "https://github.com/Ouiaam/Blok-Tech#readme"
+}

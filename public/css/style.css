@@ -1,0 +1,76 @@
+/* Algemene opmaak pagina */ 
+
+body {
+    background-color: lightpink; 
+}
+
+
+/* logo plaatsing*/ 
+
+#logo {
+    
+    margin-top: 10px; 
+    margin-left: 10px; 
+}
+
+
+
+/* intro tekst van i am, i want en i prefer*/ 
+
+h1 {
+    
+    font-size: 11pt; 
+    text-align: center; 
+    font-family:sans-serif; 
+}
+
+/* iam form vraag */ 
+
+h2 {
+    
+    font-size: 17pt; 
+    font-family: sans-serif; 
+    text-align: center; 
+    padding-top: 25px;  
+     
+    
+}
+
+/* Vierkant waarin alle vragen komen te staan */ 
+
+#square {
+    width: 800px; 
+    height: 500px;
+    background: white; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 30px;  
+    border-radius: 50px; 
+    
+}
+
+#iamQuestions {
+    
+ text-align: center;
+ font-size: 14pt;
+ font-family: monospace; 
+
+  
+ 
+ 
+}
+
+
+/* progressbar */ 
+
+
+progress {
+    
+    width: 50%;  
+    margin-left: 350px; 
+    margin-top: 30px; 
+    
+    
+    
+}
+
